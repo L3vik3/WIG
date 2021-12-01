@@ -28,7 +28,11 @@ echo "| |/\| | | '_ \ / _\` |/ _ \ \ /\ / / __|   | || '_ \|  _/ _ \| '__| '_ \`
 echo "\  /\  / | | | | (_| | (_) \ V  V /\__ \  _| || | | | || (_) | |  | | | | | | (_| | |_| | (_) | | | | | |_\ \ (_| | |_| | | |  __/ | |  __/ |            \ V / _| |___| |_"
 echo " \/  \/|_|_| |_|\__,_|\___/ \_/\_/ |___/  \___/_| |_|_| \___/|_|  |_| |_| |_|\__,_|\__|_|\___/|_| |_|  \____/\__,_|\__|_| |_|\___|_|  \___|_|             \_/  \___(_)___/"
 echo "                                                                                                                                                                          "
-echo "                                                                                                                                                                          "
+echo "                                
+echo ======================================================
+echo  [!] Version: wig.bat v1.1
+echo " [>] My profile: https://github.com/L3vik3 "
+echo " [>] Github: https://github.com/L3vik3/WIG "
 echo ======================================================
 color a
 echo  Start Time: %time%
@@ -38,8 +42,8 @@ echo 3. Ipconfig /all
 echo 4. Start new cmd window (C:\Windows\System32)
 echo 5. Shutdown PC (10second)
 echo 6. Shutdown PC (force)
-echo 7. Keszul meg!
-echo 80. Proccesor of number
+::echo 7. Keszul meg!
+::echo 80. Proccesor of number
 echo 100. Description
 
 
