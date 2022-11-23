@@ -13,6 +13,7 @@
 * PC leállítás normál
 * PC kényszerített leállítás
 * Futtatás új konzol ablakban  megnyitja--> (C:\Windows\System32\) mappát
+* Processzor szám kimutatása
 * Wifi név és jelszó listázás (Majd a frissitésben) 
 
 
